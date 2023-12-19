@@ -1,7 +1,7 @@
 # Dispositivos moviles
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![Lenguaje usado](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <img src="https://www.ucatalunya.edu.co/img/blog/herramientas-de-analisis-de-datos.jpg" alt="IA"  height="256px">
 
